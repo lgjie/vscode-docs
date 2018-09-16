@@ -80,5 +80,5 @@ If you want to use a specific language for a VS Code session, you can use the co
 Below is an example of using the `--locale` command line switch to set the VS Code display language to French:
 
 ```bash
-code . --locale=fr
+code --locale=fr
 ```
